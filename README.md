@@ -33,7 +33,7 @@ _A modern web application built for Triwizardathon Hackathon_
 
 ```bash
 # Clone the repository
-git clone https://github.com/KAAVIYA-S1/your-repo.git
+git clone https://github.com/KAAVIYA-S1/Virtual-Culture-Tour-Platform.git
 
 # Navigate to the project directory
 cd Virtual-Culture-Tour-Platform
