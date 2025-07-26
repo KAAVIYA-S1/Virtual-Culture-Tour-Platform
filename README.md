@@ -10,11 +10,11 @@ _A modern web application built for Triwizardathon Hackathon_
 
 ## 💡 Key Features
 
-🌍 Interactive map to select regions
-🎥 Embedded YouTube cultural guides
-🧭 360° view experiences using 3D
-🗣️ Local language info display
-⚡ Smooth page transitions and animations
+> 🌍 Interactive map to select regions
+> 🎥 Embedded YouTube cultural guides
+> 🧭 360° view experiences using 3D
+> 🗣️ Local language info display
+> ⚡ Smooth page transitions and animations
 
 ---
 
