@@ -4,9 +4,8 @@ _A modern web application built for Triwizardathon Hackathon_
 
 ## 🧠 Idea
 
-> This project was created to solve [brief description of the problem].  
-> It allows users to [short value proposition] using modern web technologies.
-
+> This project was created to solve the problem of limited access to India's cultural heritage by providing a virtual experience for users who cannot physically visit these sites.
+> It allows users to explore iconic Indian cultural locations and traditions interactively using modern web technologies like React, Three.js, and Vite.
 Example:  
 > A virtual culture tour platform that enables users to explore Indian regions with 360° views, regional language info, and interactive media.
 
