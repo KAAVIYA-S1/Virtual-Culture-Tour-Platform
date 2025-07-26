@@ -38,7 +38,7 @@ Example:
 git clone https://github.com/KAAVIYA-S1/your-repo.git
 
 # Navigate to the project directory
-cd your-repo
+cd Virtual-Culture-Tour-Platform
 
 # Install dependencies
 npm install
