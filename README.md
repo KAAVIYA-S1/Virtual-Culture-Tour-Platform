@@ -2,10 +2,6 @@
 
 _A modern web application built for Triwizardathon Hackathon_
 
-🌐 **Live Demo**: [https://your-live-link.com](https://your-live-link.com)  
-📁 **GitHub**: [https://github.com/KAAVIYA-S1/your-repo](https://github.com/KAAVIYA-S1/your-repo)
-
-
 ## 🧠 Idea
 
 > This project was created to solve [brief description of the problem].  
